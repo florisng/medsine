@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: May 08, 2021 at 08:44 PM
+-- Generation Time: May 11, 2021 at 03:18 PM
 -- Server version: 5.6.17
 -- PHP Version: 5.5.12
 
@@ -2052,7 +2052,7 @@ CREATE TABLE IF NOT EXISTS `expense` (
   `pay_date` date NOT NULL,
   `user` varchar(30) NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=6 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=4 ;
 
 --
 -- Dumping data for table `expense`
@@ -2358,7 +2358,7 @@ CREATE TABLE IF NOT EXISTS `tempo_rssb` (
   `cash` int(11) NOT NULL,
   `user` varchar(30) NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=2 ;
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;
 
 -- --------------------------------------------------------
 
