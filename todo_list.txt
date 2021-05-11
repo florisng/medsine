@@ -1,0 +1,15 @@
+
+
+
+
+	To do list
+	----------
+- Modify client infos (Invoice nr, 	Client, Insurance, Date, ...) on 100% & Insu invoices
+
+========================
+- Install MedSine in Chrome
+- First use - Software introduction: Tour
+
+
+
+

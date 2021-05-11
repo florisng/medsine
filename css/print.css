@@ -1,0 +1,104 @@
+body {
+    font-family: Arial;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+#header, #adv {
+    display: none;
+}
+.subtitle {
+  font-weight: bold;
+  font-size: 20px;
+}
+.hidden {
+    display: none;
+}
+#display table tr th {
+  background-color: #cfcfe6;
+}
+#display table tr th,
+#display table tr td {
+  border-bottom: 1px solid gray;
+  font-size: 13px;
+  padding: 5px;
+  margin: 5px;
+}
+.petit_total {
+  padding: 20px;
+  margin-right: 0;
+}
+.smallText {
+  padding-top: 30px;
+}
+.rssb_logo {
+  width: 60px;
+  height: 50px;
+  margin-bottom: -17px;
+  margin-right: 5px;
+}
+.affi_form, .bene_form, .doctor {
+  padding: 10px;
+  width: 50%;
+}
+.rssb_footer_one, .rssb_footer_two, .rssb_footer_three {
+  padding: 15px;
+}
+.rssb_footer_one {
+  width: 30%;
+}
+.rssb_footer_two {
+  width: 30%;
+}
+.rssb_footer_three {
+  width: 40%;
+}
+.rssb_total {
+  padding: 10px;
+}
+.rssb_entete_intro {
+  width: 70%;
+  margin-right: 10px;
+}
+.rssb_entete_pharma {
+  border-left: gray 5px solid;
+  padding: 10px;
+  width: 30%;
+}
+.right {
+  float: right;
+}
+.rssb_entete {
+  border-left: rgb(145, 180, 209) 30px solid;
+  border-right: rgb(145, 180, 209) 2px solid;
+  border-top: gray 2px solid;
+  border-bottom: gray 2px solid;
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+}
+.affiliate_form {
+  border-left: rgb(145, 180, 209) 30px solid;
+  border-right: rgb(145, 180, 209) 2px solid;
+  border-top: gray 2px solid;
+  border-bottom: gray 2px solid;
+  padding: 5px;
+  display: flex;
+  flex-direction: row;
+}
+.produit_fournis {
+  background-color: rgb(214, 219, 255);
+  padding: 20px;
+  border-left: rgb(145, 180, 209) 30px solid;
+  border-right: rgb(145, 180, 209) 2px solid;
+  border-top: gray 2px solid;
+  border-bottom: gray 2px solid;
+}
+.rssb_footer {
+  border-left: rgb(145, 180, 209) 30px solid;
+  border-right: rgb(145, 180, 209) 2px solid;
+  border-top: gray 2px solid;
+  border-bottom: gray 2px solid;
+  display: flex;
+  flex-direction: row;
+  columns: 3;
+}
